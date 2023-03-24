@@ -5,4 +5,4 @@ Emilyn N°10
 
 
 #DESCRIÇÃO
-Nesse trabalho falaremos sobre a alimentção 
+Nesse trabalho falaremos sobre a alimentação.
