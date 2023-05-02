@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 
 .cabecalho{
@@ -18,47 +20,48 @@
     margin: 0 16px;
     font-size: 24px;
 }
-.pulmao{
+.pulmão{
     background-image: linear-gradient(#365902, #618C03);
     color: black;
     display: flex;
+    justify-content: center;
     padding: 24px 0;
 }
-.cerebro{
+.cérebro{
     color: black;
     background-color: #618C03;
     display: flex;
     justify-content: center;
     padding: 24px 0;
 }
-.estomago{
+.estômago{
     background-color: #618C03;
     color: black;
     display: flex;
     justify-content: center;
     padding: 24px 0;
 }
-.coracao{
+.coração{
     background-color: #618C03;
     color: black;
     display: flex;
-    justify-content: end;
+    justify-content: center;
     padding: 24px 0;
 }
 
-.pulmao-titulo{
+.pulmão-titulo{
     padding: 24px 0;
 }
 
-.cerebro-titulo{
+.cérebro-titulo{
     padding: 24px 0;
 }
 
-.estomago-titulo{
+.estômago-titulo{
     padding: 24px 0;
 }
 
-.coracao-titulo{
+.coração-titulo{
     padding: 24px 0;
 }
 
